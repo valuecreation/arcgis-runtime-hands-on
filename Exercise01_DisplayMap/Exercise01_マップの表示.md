@@ -73,6 +73,9 @@ namespace Exercise01_DisplayMap
     }
 }
 ```
-# Display a map
+# ArcGIS Runtime SDK for .NET (WPF) 
+## Display a map
+
+地図表示については以下のガイドからも確認することができます。
 
 https://developers.arcgis.com/net/latest/wpf/guide/display-a-map.htm
