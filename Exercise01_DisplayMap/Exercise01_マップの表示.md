@@ -18,6 +18,8 @@
 </Window>
 ```
 
+## MainWindow.xaml
+
 ```cs
 using System;
 using System.Windows;
